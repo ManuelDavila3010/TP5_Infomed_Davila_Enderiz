@@ -1,4 +1,4 @@
-<img>itba_logo.png</img>
+<img src="https://github.com/user-attachments/assets/25ad4ac5-8846-4e63-a52d-ac085909c0d4" width="400" style="height:auto;">
 
 # TP5_Davila_Enderiz
 
@@ -18,4 +18,4 @@
 
 ## Descripción
 
-Introducción a las bases de datos, SQL y manejo de versiones.
+Introducción a bases de datos, SQL y manejo de versiones.
