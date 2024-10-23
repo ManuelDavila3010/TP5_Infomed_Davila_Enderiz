@@ -19,3 +19,11 @@
 ## Descripción
 
 Introducción a bases de datos, SQL y manejo de versiones.
+
+## Reporting
+
+Link a la base de datos en google sheets:
+https://docs.google.com/spreadsheets/d/1Z0chAxnpHIG64p29Nv8kPqMVm-2l0sXy8-6QYOIZZTc/edit?usp=drive_link
+
+Link al tablero de looker studio:
+https://lookerstudio.google.com/reporting/ec625269-b8d1-493d-a16a-f6df88988eb7
